@@ -1,5 +1,5 @@
 ![App Brewery Banner](Documentation/AppBreweryBanner.png)
-
+[![Run on Repl.it](https://repl.it/badge/github/LucasFeitosa/Dicee-iOS13)](https://repl.it/github/LucasFeitosa/Dicee-iOS13)
 # Dicee
 
 ## Our Goal
